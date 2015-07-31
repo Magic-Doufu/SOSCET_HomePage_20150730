@@ -1,0 +1,56 @@
+.section {
+    background-size: cover;
+}
+
+div#section0 {
+    background-image: url("../static/cover.jpg");
+}
+
+div#background_text {
+    background-color: rgba(254,254,254,0.75);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div#section0 h1, div#section0 h4 {
+    color: black;
+    text-align: center;
+}
+
+div.section div.slide h1,  div.section div.slide h2, div.section div.slide h3, div.section div.slide h4, div.section div.slide h5, div.section div.slide h6, div.section div.slide ui, div.section div.slide li{
+    margin-left: 75px;
+}
+
+div#section1 {
+    background-image: url("../static/codeIgniter.jpg")
+}
+
+div#section1 * {
+    color: rgba(255, 255, 255, 1);
+}
+
+div#section1 li {
+    font-size: 16px;
+}
+
+div#section2 {
+    background-image: url("http://dev.kisekinoashita.org/pic.jpg");
+}
+
+div#section2 *{
+    color: rgba(0, 0, 0, 1);
+}
+
+div#background_text_slide3 {
+    min-height: 50px;
+    max-height: 150px;
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+div#section3 {
+    background-color: #FFFFFF;
+}
+
+div#section3 * {
+    text-align: center;
+}
