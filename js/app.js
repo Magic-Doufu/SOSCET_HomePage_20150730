@@ -1,7 +1,6 @@
 $(document).ready(function() {
             $('#fullpage').fullpage({
-                navigation: true,
-                navigationPosition: 'right',
+                navigation: false,
                 sectionsColor: ['#FFFFFF', '#FFFFFF', '#FFFFFF', '#FFC107'],
                 anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage'],
                 menu: '#menu',
